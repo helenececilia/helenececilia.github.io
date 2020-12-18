@@ -1,12 +1,22 @@
 name: "helenececilia.github.io"
-title: "My Website"
+title: "Hélène Cecilia"
 description: |
-  My Website
+  Hélène Cecilia
 output_dir: "docs"
 navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "About"
-      href: about.html
+    - text: "Research & CV"
+      href: research.html
+    - text: "Publications"
+      href: publi.html
+    - text: "Outreach"
+      href: vulga.html
+    - text: "Contact"
+      href: contact.html
+    - icon: fab fa-twitter
+      href: https://twitter.com/helcecilia
+    - icon: fab fa-linkedin
+      href: https://www.linkedin.com/in/h%C3%A9l%C3%A8ne-cecilia-486159a7/
 output: distill::distill_article
