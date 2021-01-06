@@ -1,7 +1,8 @@
 ---
-title: "Publications"
+title: "About me"
+image: "helene.jpg"
 description: |
-  Coming Soon
+  I'm a mathematical modeller, mostly interested in epidemiology and ecology. So far, I've worked on issues regarding population dynamics of insect vectors and the transmission dynamics of vector-borne diseases.
 site: distill::distill_website
 ---
 
