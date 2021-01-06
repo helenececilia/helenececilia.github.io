@@ -1,7 +1,7 @@
 ---
-title: "About me"
+title: "Publications"
 description: |
-  I'm a mathematical modeller, mostly interested in epidemiology and ecology. So far, I've worked on issues regarding population dynamics of insect vectors and the transmission dynamics of vector-borne diseases.
+  Coming Soon
 site: distill::distill_website
 ---
 
