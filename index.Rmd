@@ -9,7 +9,7 @@ links:
   - label: Google Scholar
     url: "https://scholar.google.com/citations?hl=fr&view_op=list_works&gmla=AJsN-F48ZnzAbHallJvpclJHCmCDhOcuOs99Iw-fJHGSH1-YsJOVuOr5hRBfnC0CxGJHx_rjR8iEAHHd6KfO6EKZp6QiPwikr1Z_SmFl6HtSyvNFc9KmNaQ1ODUGpd_lvKIFacH81MjV&user=2YxfCwMAAAAJ"
   - label: Email
-    url: "mailto:helene.cecilia@oniris-nantes.fr"
+    url: "mailto:helene.cecilia3@gmail.com"
 output:
   postcards::trestles
 ---
@@ -18,15 +18,13 @@ output:
 
 I'm a mathematical modeler, primarily interested in epidemiology and ecology. So far, I've worked on issues regarding transmission dynamics of vector-borne diseases and population dynamics of insect vectors. I mostly use mechanistic modeling, at different scales : from countrywide risk mapping to within-host viral dynamics. 
 
-**I'm open to postdoc opportunities, drop me an email if you think I could be a good fit for your team!**
-
-I'm also very keen on scientific outreach activities. I talked about my own research in  [Soapbox Science](http://soapboxscience.org/) and [Skype a scientist](https://www.skypeascientist.com/). I volunteered for [Pint of Science](https://pintofscience.com/) and [Labo des Savoirs](https://labodessavoirs.fr/) (weekly scientific radio program, in french).
+I'm also very keen on scientific outreach activities. I sometimes write columns or do interviews for [Labo des Savoirs](https://labodessavoirs.fr/) (weekly scientific radio program, in french). I talked about my own research in  [Soapbox Science](http://soapboxscience.org/), [Skype a scientist](https://www.skypeascientist.com/) and [Nuit Blanche des Chercheurs](https://nbc.univ-nantes.fr/) (in french). I also volunteered in the organizing team of [Pint of Science](https://pintofscience.com/) a few years ago.
 
 ## Education
 
 **INRAE Animal Health Department (BIOEPAR, Oniris)** | Nantes, France
 
-Ph.D. in Epidemiological Modeling | October 2018 - Present
+Ph.D. in Epidemiological Modeling | October 2018 - 2021
 
 Modeling Rift Valley fever virus dynamics : insight from micro- to macro-scale
 studies
@@ -39,6 +37,10 @@ B.S. in General Engineering | 2010 - 2012
 
 
 ## Experience
+**New Mexico State University (Hanley Lab)** | January 2022 - Present
+
+Transmission-clearance trade-off in native and novel hosts of Zika and dengue viruses
+
 **Wageningen University and Research** | Visiting Researcher | October 2019, March 2020
 
 Temporarily joined the Quantitative Veterinary Epidemiology group (chaired by Prof. Mart de Jong) and collaborated with Dr. Quirine ten Bosch on a project within my PhD.
