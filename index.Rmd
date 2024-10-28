@@ -2,53 +2,53 @@
 title: "Hélène Cecilia"
 image: "helene.jpg"
 links:
-  # - label: LinkedIn
-  #   url: "https://linkedin.com/in/h%C3%A9l%C3%A8ne-cecilia-486159a7/"
-  - label: Twitter
-    url: "https://twitter.com/helcecilia"
   - label: Google Scholar
     url: "https://scholar.google.com/citations?hl=fr&view_op=list_works&gmla=AJsN-F48ZnzAbHallJvpclJHCmCDhOcuOs99Iw-fJHGSH1-YsJOVuOr5hRBfnC0CxGJHx_rjR8iEAHHd6KfO6EKZp6QiPwikr1Z_SmFl6HtSyvNFc9KmNaQ1ODUGpd_lvKIFacH81MjV&user=2YxfCwMAAAAJ"
   - label: Email
-    url: "mailto:helene.cecilia3@gmail.com"
+    url: "mailto:helene.cecilia@inrae.fr"
+  - label: LinkedIn
+    url: "https://linkedin.com/in/h%C3%A9l%C3%A8ne-cecilia-486159a7/"
+  - label: BlueSky
+    url: "https://bsky.app/profile/helcecilia.bsky.social"
+  - label: Twitter
+    url: "https://twitter.com/helcecilia"
 output:
   postcards::trestles
 ---
  
 ## Bio
 
-I'm a mathematical modeler, primarily interested in epidemiology and ecology. So far, I've worked on issues regarding transmission dynamics of vector-borne diseases and population dynamics of insect vectors. I mostly use mechanistic modeling, at different scales : from countrywide risk mapping to within-host viral dynamics. 
+I am a mathematical modeler, specialized in the ecology and epidemiology of vector-borne, zoonotic diseases.
 
-I'm also very keen on scientific outreach activities. I sometimes write columns or do interviews for [Labo des Savoirs](https://labodessavoirs.fr/) (weekly scientific radio program, in french). I talked about my own research in  [Soapbox Science](http://soapboxscience.org/), [Skype a scientist](https://www.skypeascientist.com/) and [Nuit Blanche des Chercheurs](https://nbc.univ-nantes.fr/) (in french). I also volunteered in the organizing team of [Pint of Science](https://pintofscience.com/) a few years ago.
+I have studied the impact of abiotic factors on the population dynamics of insect vectors, and how the fragmentation of the habitat due to human activites can create source-sink dynamics that can jeopardize control efforts. I have mapped the epidemic potential of complex multi-host, multi-vector systems in a seasonal environment. I have also worked at the within-host scale, comparing viral dynamics and host-to-vector transmission patterns of different vertberate host species and viral strains. 
 
-## Education
+My research interests are now focused on assessing the impact of individual heterogeneities on transmission dynamics at the population scale, and, methodologically, on the best approach to couple these different scales. I mostly use mechanistic modeling, but I can also use statistical models, particularly to exploit experimental data. 
 
-**INRAE Animal Health Department (BIOEPAR, Oniris)** | Nantes, France
+Please reach out if you think a collaboration could be of interest, or if you're a prospective master/PhD student, or postdoc. I'm also very keen on scientific outreach activities.
 
-Ph.D. in Epidemiological Modeling | October 2018 - 2021
 
-Modeling Rift Valley fever virus dynamics : insight from micro- to macro-scale
-studies
+## Education & Experience
+**INRAE Animal Health Department (Dynamo team, BIOEPAR lab, Oniris)** | Permanent Researcher | October 2024 - Present
+
+*Multi-scale modeling of vector-borne diseases*
+
+**New Mexico State University (Hanley Lab)** | January 2022 - September 2024
+
+*Transmission-clearance trade-offs in native and novel hosts of Zika and dengue viruses*
+
+**INRAE Animal Health Department (Dynamo team, BIOEPAR lab, Oniris)** | Ph.D. in Epidemiological Modeling | October 2018 - 2021
+
+*Modeling Rift Valley fever virus dynamics : insight from micro- to macro-scale
+studies*
+
+Collaborated with Wageningen University and Research (Prof. Quirine ten Bosch)
+
+**INRAE Animal Health Department (Dynamo team, BIOEPAR lab, Oniris)** | Research Assistant | January 2016 - October 2017
+
+*Modeling tsetse fly population dynamics to inform control strategies*
 
 **National Institutes of Science and Technology** | Lyon, France
 
 M.S. in Bioinformatics and Mathematical Modeling | 2012 - 2015
 
 B.S. in General Engineering | 2010 - 2012
-
-
-## Experience
-**New Mexico State University (Hanley Lab)** | January 2022 - Present
-
-Transmission-clearance trade-off in native and novel hosts of Zika and dengue viruses
-
-**Wageningen University and Research** | Visiting Researcher | October 2019, March 2020
-
-Temporarily joined the Quantitative Veterinary Epidemiology group (chaired by Prof. Mart de Jong) and collaborated with Dr. Quirine ten Bosch on a project within my PhD.
-
-**BIOEPAR, INRAE, Oniris** | Research Assistant | January 2016 - October 2017
-
-Modeling tsetse fly population dynamics to inform control strategies
-
-**Bristol Robotics Laboratory** | Research Intern | February 2015 - October 2015
-
-Modeling nanoparticles’ convection-enhanced delivery against brain cancer. Application with a swarm of Kilobots.
