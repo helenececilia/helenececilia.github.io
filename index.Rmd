@@ -10,8 +10,6 @@ links:
     url: "https://linkedin.com/in/h%C3%A9l%C3%A8ne-cecilia-486159a7/"
   - label: BlueSky
     url: "https://bsky.app/profile/helcecilia.bsky.social"
-  - label: Twitter
-    url: "https://twitter.com/helcecilia"
 output:
   postcards::trestles
 ---
